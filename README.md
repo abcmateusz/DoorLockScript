@@ -55,6 +55,7 @@ if clickDetector then
 else
 	warn("ClickDetector not found in 'DoorLock'.")
 end
-
+```
+---
 Author
-abcMateusz
+@abcMateusz
